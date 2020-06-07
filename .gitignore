@@ -1,12 +1,13 @@
 *.pdf
 datasets
-images
-*.txt
+#images
+#*.txt
 output
-data
+#data
 *.wav
 nb_images
 models
 .ipynb_checkpoints
 .DS_Store
 __pycache__
+.venv
